@@ -1,0 +1,4 @@
+#Mon Jul 29 10:33:43 PKT 2024
+base.0=D\:\\FreeVPN-App-Flutter-master\\FreeVPN-App-Flutter-master\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">480415667223-cp82h16vl2ms0u4bcs40qq273ibfhp79.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">480415667223</string>
+    <string name="google_api_key" translatable="false">AIzaSyB278a0ik31BTSL3w2tgMgSgQQJj7avakM</string>
+    <string name="google_app_id" translatable="false">1:480415667223:android:6a5177701d3e4bb2e63852</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB278a0ik31BTSL3w2tgMgSgQQJj7avakM</string>
+    <string name="google_storage_bucket" translatable="false">freevpn-flutter.appspot.com</string>
+    <string name="project_id" translatable="false">freevpn-flutter</string>
+</resources>

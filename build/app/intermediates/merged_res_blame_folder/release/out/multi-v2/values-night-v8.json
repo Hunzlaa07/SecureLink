@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\FreeVPN-App-Flutter-master\\FreeVPN-App-Flutter-master\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PMLS\\.gradle\\caches\\transforms-3\\ea543a8cf3e57ffc5f78fb760c4d4e98\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,681,765,849,945,1047,1149,1243",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "676,760,844,940,1042,1144,1238,1327"
+                    }
+                },
+                {
+                    "source": "D:\\FreeVPN-App-Flutter-master\\FreeVPN-App-Flutter-master\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,1060"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,363",
+                        "endLines": "6,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "358,606"
+                    }
+                }
+            ]
+        }
+    ]
+}
